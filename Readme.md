@@ -6,13 +6,13 @@
 - 打开安装包,一直下一步到安装完成即可
 
 ## 填入你的cookie
-![](./img/step2.png)
+
 - **inTimeActive** 和 **longActive** 里面的jdCookie.js填入你的cookie
-![](./img/step3.png)
+
 
 - **修改助力码**
 **inTimeActive** 和 **longActive** 里面的都要修改，改好一个文件夹复制到另一个就可以了
-![](./img/step4.png)
+
 - 修改两个文件夹内含有sharecode名字js内的助力码为你自己的
 
 ## 运行脚本
